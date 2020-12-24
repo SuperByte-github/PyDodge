@@ -35,5 +35,6 @@ You will see hearts coming, if you touch them it will increase the hp by 1.
 6. 6th day - added the teleportation system and few bug fixes, then added the GAMEOVER screen with the score display.
 7. 7th day - added the Start timer and converted this to am exe.
 8. 8th day - added another missile with a bit slower speed and heart rectangle.
+9. 9th day - added the heart image. :heart:
 
 ***
