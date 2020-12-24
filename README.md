@@ -1,15 +1,12 @@
-***WIP***
-
-**NOTE** This is not an important file, this is just about the game and some info about it.
-
 **PyDodge** *v0.1* made in python using *PyGame*, *Random*, *Time*.
-Belongs to **Super Byte**
+Belongs to **Super Byte ST**
 
 ***
 
 #### ABOUT
 
-This game was made in just a week because everyday a very small period of time, this game was developed so it took a week. This is so easy that you can aslo make a clone of it very easily but I'm planning to develop it in a different way. Any other can join me (currently looking for a good collaborator).
+This game was made in just a week because everyday a very small period of time, this game was developed so it took a week.
+*Contact* : Surendhran2003@gmail.com
 
 ***
 
@@ -35,6 +32,53 @@ You will see hearts coming, if you touch them it will increase the hp by 1.
 6. 6th day - added the teleportation system and few bug fixes, then added the GAMEOVER screen with the score display.
 7. 7th day - added the Start timer and converted this to am exe.
 8. 8th day - added another missile with a bit slower speed and heart rectangle.
-9. 9th day - added the heart image. :heart:
+
+***
+
+#### TO-DO
+
+- [ ] Add heart images.
+- [ ] Make the screen bigger.
+- [ ] Add more obstacles.
+- [ ] Make the look good.
+- [ ] Add particles effect.
+- [ ] `optional` Make it multiplayer.
+- [ ] Add animations.
+- [ ] Publish on Github. *First create an account in GitHub and learn it*
+- [ ] **Publish!!!**[^I mean]
+
+***
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***
+
+##### FootNotes:
+
+[^I mean]:Publishing Publicly.
 
 ***
