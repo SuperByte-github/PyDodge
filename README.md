@@ -9,7 +9,7 @@ Belongs to **Super Byte**
 
 #### ABOUT
 
-This game was made in just a week because everyday a very small period of time, this game was developed so it took a week. This is so easy that you can aslo make a clone of it very easily but I'm planning to develop it in a different way. Any other can join me (currently looking for a good team-mate.
+This game was made in just a week because everyday a very small period of time, this game was developed so it took a week. This is so easy that you can aslo make a clone of it very easily but I'm planning to develop it in a different way. Any other can join me (currently looking for a good collaborator).
 
 ***
 
