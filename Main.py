@@ -29,6 +29,7 @@ count = 3
 player = pygame.image.load("assets/ship.png")
 missile = pygame.image.load("assets/missile.png")
 heart = pygame.image.load("assets/heart.png")
+coin = pygame.image.load("assets/Coin.png")
 
 Window_size = (800,600)
 pygame.display.set_caption("PyDodge v0.1 (alpha)")
@@ -62,14 +63,14 @@ while go:
 	missile_rect2 = pygame.Rect(missile_loc2[0], missile_loc2[1], missile.get_width(), missile.get_height())
 	missile_rect3 = pygame.Rect(missile_loc3[0], missile_loc3[1], missile.get_width(), missile.get_height())
 	hart_rect = pygame.Rect(hart_loc[0], hart_loc[1], 15, 15)
-	con_rect = pygame.Rect(con_loc[0], con_loc[1], 15, 15) # coin.get_width(), coin.get_height()
+	con_rect = pygame.Rect(con_loc[0], con_loc[1], coin.get_width(), coin.get_height())
 
 	# pygame.draw.rect(screen, (0,0,0), player_rect)
 	# pygame.draw.rect(screen, (255,0,0), missile_rect)
 	# pygame.draw.rect(screen, (255,0,0), missile_rect2)
 	# pygame.draw.rect(screen, (255,0,0), missile_rect3)
 	# pygame.draw.rect(screen, (255,0,0), hart_rect)
-	pygame.draw.rect(screen, (255, 255, 0), con_rect)
+	# pygame.draw.rect(screen, (255, 255, 0), con_rect)
 
 	score_tex = font.render("Score:"+str(score), True, "Black")
 	screen.blit(score_tex, [20,20])
@@ -81,6 +82,7 @@ while go:
 	screen.blit(missile, missile_loc2)
 	screen.blit(missile, missile_loc3)
 	screen.blit(heart, hart_loc)
+	screen.blit(coin, con_loc)
 
 	player_rect.x = player_location[0]
 	player_rect.y = player_location[1]

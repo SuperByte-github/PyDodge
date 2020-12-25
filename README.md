@@ -1,13 +1,15 @@
+***WIP***
+
+**NOTE:** This is not an important README file, this is just some info.
+
 **PyDodge** *v0.1* made in python using *PyGame*, *Random*, *Time*.
-Belongs to **Super Byte ST**
+Belongs to **SuperByte-github**
 
 ***
 
 #### ABOUT
 
-This game was made in just a week because everyday a very small period of time, this game was developed so it took a week.
-*Contact* : Surendhran2003@gmail.com
-
+This game was made in just a week because everyday a very small period of time. Currently the game is so simple that you can also make a clone of this game ver easily if you know basics of pygame. I'm currently looking for a good collaborator for me (looking for a programming teammate).
 ***
 
 #### HOW TO PLAY
