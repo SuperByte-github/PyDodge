@@ -32,7 +32,9 @@ You will see hearts coming, if you touch them it will increase the hp by 1.
 4. 4th day - made the Ship to have an image and movement was added.
 5. 5th day - added the score and HP with many tweakings and trials for a good result.
 6. 6th day - added the teleportation system and few bug fixes, then added the GAMEOVER screen with the score display.
-7. 7th day - added the Start timer and converted this to am exe.
+7. 7th day - added the Start timer and converted this to an exe.
 8. 8th day - added another missile with a bit slower speed and heart rectangle.
+9. 9th day - added coins without image.
+10. 10th day - added coin image, made the screen bigger, added another missile.
 
 ***
