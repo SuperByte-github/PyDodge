@@ -21,6 +21,7 @@ Top-Left is the score.
 Bottom-Left is your health, if you touch one missile then it will reduce you HP by 1.
 You will teleport your ship to the bottom if you touch the top and vice-versa.
 You will see hearts coming, if you touch them it will increase the hp by 1.
+If you touch the coin then your score will increase by 5.
 
 ***
 
